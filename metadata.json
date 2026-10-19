@@ -1,0 +1,6 @@
+{
+  "name": "Complaint Triage Agent",
+  "description": "Healthcare Complaint Triage Assistant for reviewing, prioritizing, and routing patient feedback, safety incidents, and grievances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
